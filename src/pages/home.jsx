@@ -260,12 +260,11 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          I{"'"}m Moksh Shah, a software engineer and student from Richmond,
-          Virginia
+          Im Moksh Shah, a software engineer and student from Richmond, Virginia
         </title>
         <meta
           name="description"
-          content="I'm Moksh Shah, a software engineer and student from Richmond, Virgnia"
+          content="I'm Moksh Shah, a software engineer and student from Richmond, Virginia"
         />
       </Head>
       <Container className="mt-9">
